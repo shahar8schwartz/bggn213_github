@@ -1,2 +1,4 @@
 # bggn213_github
-Classwork from Graduate Bioinformatics BGGN213 at UC San Diego but now from github instead of from Rstudio
+Classwork from [Graduate Bioinformatics BGGN213]() at UC San Diego.
+
+- Class 5: Data viz with ggplot
